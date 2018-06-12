@@ -66,13 +66,13 @@ var q3 = {
 };
 
 var q4 = {
-	question : 'The 1980\'s were big for new personal computer introductions. Which of the following computers was introduced in 1980?',
-	possibleAnswers : ['A. Sinclair ZX80',
-				 'B. IBM PC',
-				 'C. Commodore 64',
-				 'D. Atari 2600'],
+	question : 'how many champions league title does liverpool fc have?',
+	possibleAnswers : ['A. 5',
+				 'B. 0',
+				 'C. 2',
+				 'D. 7'],
 	flags : [true, false, false, false],
-	answer : 'A. Sinclair ZX80'
+	answer : 'A. 5'
 };
 
 var q5 = {
